@@ -39,7 +39,7 @@ Este portafolio presenta mis proyectos universitarios y personales. Por razones 
 
 · **Miembros del grupo**: Alejandro Pastor, Mireia Pou, Daniel Lizarte.   
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Portfolio - English
@@ -76,8 +76,11 @@ This portfolio features my university and personal projects. For confidentiality
 · **Group members**: Daniel Marín, Daniel Lizarte.  
 
 ## **UPF Natural Language Processing for Everyday Applications Projects**
-· **Description**: A series of team projects using Python that include: Seminar 1 focused on text classification using decision trees and Naïve Bayes on datasets like IRIS, IMDB, and Reuters; Seminar 2 analyzed text with spaCy, exploring N-Grams and word embeddings; Seminar 3 introduced neural networks for binary text classification; Lab 1 investigated extractive and abstractive text summarization using neural networks; Lab 2 implemented a BERT-based information extraction.
+· **Description**: A series of team projects using Python that include: Seminar 1 focused on text classification using decision trees and Naïve Bayes on datasets like IRIS, IMDB, and Reuters; Seminar 2 analyzed text with spaCy, exploring N-Grams and word embeddings; Seminar 3 introduced neural networks for binary text classification; Lab 1 investigated extractive and abstractive text summarization using neural networks; Lab 2 implemented a BERT-based information extraction.   
+
 · **Group members**: Alejandro Pastor, Mireia Pou, Daniel Lizarte.    
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Portafoli - Català
