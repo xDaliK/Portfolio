@@ -1,4 +1,5 @@
 ### (English Below)
+### (Català Abaix)
 
 # Portafolio - Castellano
 Este portafolio presenta mis proyectos universitarios y personales. Por razones de confidencialidad, el acceso al código es privado; contáctame para más detalles.  
@@ -75,4 +76,46 @@ This portfolio features my university and personal projects. For confidentiality
 · **Group members**: Daniel Marín, Daniel Lizarte.  
 
 ## **UPF Natural Language Processing for Everyday Applications Projects**
-· **Description**: A series of team projects using Python that include: Seminar 1 focused on text classification using decision trees and Naïve Bayes on datasets like IRIS, IMDB, and Reuters; Seminar 2 analyzed text with spaCy, exploring N-Grams and word embeddings; Seminar 3 introduced neural networks for binary text classification; Lab 1 investigated extractive and abstractive text summarization using neural networks; Lab 2 implemented a BERT-based information extraction
+· **Description**: A series of team projects using Python that include: Seminar 1 focused on text classification using decision trees and Naïve Bayes on datasets like IRIS, IMDB, and Reuters; Seminar 2 analyzed text with spaCy, exploring N-Grams and word embeddings; Seminar 3 introduced neural networks for binary text classification; Lab 1 investigated extractive and abstractive text summarization using neural networks; Lab 2 implemented a BERT-based information extraction.
+· **Group members**: Alejandro Pastor, Mireia Pou, Daniel Lizarte.    
+
+
+# Portafoli - Català
+Aquest portafoli presenta els meus projectes universitaris i personals. Per raons de confidencialitat, l'accés al codi és privat; contacta'm per a més detalls.
+
+## **xDalik Web**
+· **Descripció**: Aquest portafoli web mostra la meva trajectòria i projectes, destacant els meus estudis en Enginyeria Informàtica, aprenentatge personal, certificacions i habilitats autodidactes. Inclou projectes acadèmics i professionals significatius, així com projectes personals i resums de màquines de ciberseguretat en Docker. La secció d'experiència detalla el meu historial laboral, descrivint tasques i habilitats adquirides en cada lloc. La secció de currículum proporciona el meu CV actualitzat, resumint el meu perfil, experiències laborals, idiomes parlats i certificacions. A més, la secció Sobre mi ofereix informació sobre el meu perfil personal, habilitats i objectius professionals. Finalment, hi ha un formulari de contacte per a comunicació directa.
+
+· **Membres del grup**: Daniel Lizarte.
+
+## **UPF Seguretat en Computadors Projectes**
+· **Descripció**: Laboratoris que cobreixen reconeixement, escaneig de vulnerabilitats, monitoratge d'activitat a Internet, anàlisi de malware i mecanismes de defensa. Les eines inclouen Kali Linux, NMAP, Shodan, WAZUH i entorns Metasploitable, proporcionant experiència pràctica amb tècniques de seguretat ofensives i defensives.
+
+· **Membres del grup**: Sebastian Lawrance, Jordi Justicia, Daniel Lizarte.
+
+## **UPF Sistemes Interactius Projecte**
+· **Descripció**: Desenvolupat amb C# i Unity, "HouseDreaming" és una experiència interactiva de cos complet on els usuaris moblen la seva casa de somni. Els jugadors memoritzen la ubicació dels mobles mostrats en una visió de 20 segons i després els col·loquen a la casa, guanyant punts a mesura que avancen en desafiaments cada vegada més complexos.
+
+· **Membres del grup**: Xavier Marzo Pie, Alejandro Vilchez, Daniel Lizarte Cáceres.
+
+## **UPF Taller de Tecnologia Musical Projecte**
+· **Descripció**: Aplicació web de processament d'àudio "AnimalIA" construïda amb Essentia, Python i Streamlit. Les característiques clau inclouen anàlisi d'àudio en temps real, classificació mitjançant aprenentatge automàtic i integració de backend i frontend per a un processament de so interactiu.
+
+· **Membres del grup**: Miles Churchland, Laura Guàrdia, Adrià Julià, Daniel Martínez, Lucía Plasencia, Giulia Reveica, Daniel Lizarte.
+
+## **UPF Entorns de Comunicació Virtual Projectes (MH)**
+· **Descripció**: Una sèrie de projectes per al curs d'Entorns de Comunicació Virtual, incloent un Xat Virtual (Laboratori 1), una aplicació de xat desenvolupada amb HTML, CSS i JavaScript que permet als usuaris enviar missatges públics i privats en Sillyserver; DaNau’s Virtual Chat (Laboratori 2), un espai de xat 2D amb avatars creats amb HTML, CSS, JavaScript i SQL, que permet la interacció en temps real en un entorn compartit; i DaNau’s Virtual Classroom (Laboratori 3), un aula virtual 3D construïda amb HTML, CSS, JavaScript i SQL, on estudiants i professors poden interactuar i col·laborar en temps real.
+
+· **Membres del grup**: Laboratori 1: Daniel Lizarte. | Laboratori 2 i 3: Arnau Camarero, Daniel Lizarte.
+
+## **UPF Anàlisi de Gestos i Caras Projectes**
+· **Descripció**: En el curs d'Anàlisi de Gestos i Caras, els projectes realitzats utilitzant Python i MATLAB van incloure el desenvolupament d'un sistema automàtic de detecció de cares en el Lab 1, l'extracció de bases facials representatives utilitzant eigenfaces en el Lab 2, l'anàlisi de la percepció subjectiva d'emocions a partir d'expressions facials en el Lab 3, la creació d'un sistema automàtic de reconeixement de cares en el Lab 4 i l'optimització d'aquest sistema per millorar el seu rendiment en el Challenge Lab 5.
+
+· **Membres del grup**: Daniel Marín, Daniel Lizarte.
+
+## **UPF Processament de Llenguatge Natural per Aplicacions Quotidianes Projectes**
+· **Descripció**: Una sèrie de projectes en equip utilitzant Python que inclouen: Seminari 1 centrat en la classificació de text utilitzant arbres de decisió i Naïve Bayes en conjunts de dades com IRIS, IMDB i Reuters; Seminari 2 va analitzar text amb spaCy, explorant N-Grams i embeddings de paraules; Seminari 3 va introduir xarxes neuronals per a la classificació binària de text; Laboratori 1 va investigar la resumació de text extractiva i abstractiva utilitzant xarxes neuronals; Laboratori 2 va implementar un sistema d'extracció d'informació basat en BERT amb etiquetatge BIO i va avaluar el rendiment utilitzant mètriques de precisió, recall i F1.
+
+· **Membres del grup**: Alejandro Pastor, Mireia Pou, Daniel Lizarte.
+
+
