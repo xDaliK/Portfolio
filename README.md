@@ -4,7 +4,7 @@
 # Portafolio - Castellano
 Este portafolio presenta mis proyectos universitarios y personales. Por razones de confidencialidad, el acceso al código es privado; contáctame para más detalles.  
 
-## **xDalik Web**
+## **xDalik Web (En Desarrollo)**
 · **Descripción**: Este portafolio web muestra mi trayectoria y proyectos, destacando mis estudios en Ingeniería Informática, aprendizaje personal, certificaciones y habilidades autodidactas. Incluye proyectos académicos y profesionales significativos, así como proyectos personales y resúmenes de máquinas de ciberseguridad en Docker. La sección de experiencia detalla mi historial laboral, describiendo tareas y habilidades adquiridas en cada puesto. La sección de currículum proporciona mi CV actualizado, resumiendo mi perfil, experiencias laborales, idiomas hablados y certificaciones. Además, la sección Sobre mí ofrece información sobre mi perfil personal, habilidades y objetivos profesionales. Finalmente, hay un formulario de contacto para comunicación directa.  
 
 · **Miembros del grupo**: Daniel Lizarte.  
@@ -46,7 +46,7 @@ Este portafolio presenta mis proyectos universitarios y personales. Por razones 
 # Portfolio - English
 This portfolio features my university and personal projects. For confidentiality, code access is private; contact me for more details.  
 
-## **xDalik Web**
+## **xDalik Web (In Development)**
 · **Description**: This web portfolio showcases my journey and projects, highlighting my studies in Computer Engineering, personal learning, certifications, and self-taught skills. It features significant academic and professional projects, including personal projects and cybersecurity machine write-ups on Docker. The experience section details my work history, describing tasks and skills acquired at each position. The resume section provides my updated CV, summarizing my profile, work experiences, languages spoken, and certifications. Additionally, the About Me section offers insights into my personal profile, skills, and professional goals. Finally, there is a contact form for direct communication.  
 
 · **Group members**: Daniel Lizarte.  
@@ -88,7 +88,7 @@ This portfolio features my university and personal projects. For confidentiality
 # Portafoli - Català
 Aquest portafoli presenta els meus projectes universitaris i personals. Per raons de confidencialitat, l'accés al codi és privat; contacta'm per a més detalls.
 
-## **xDalik Web**
+## **xDalik Web (En desenvolupament)**
 · **Descripció**: Aquest portafoli web mostra la meva trajectòria i projectes, destacant els meus estudis en Enginyeria Informàtica, aprenentatge personal, certificacions i habilitats autodidactes. Inclou projectes acadèmics i professionals significatius, així com projectes personals i resums de màquines de ciberseguretat en Docker. La secció d'experiència detalla el meu historial laboral, descrivint tasques i habilitats adquirides en cada lloc. La secció de currículum proporciona el meu CV actualitzat, resumint el meu perfil, experiències laborals, idiomes parlats i certificacions. A més, la secció Sobre mi ofereix informació sobre el meu perfil personal, habilitats i objectius professionals. Finalment, hi ha un formulari de contacte per a comunicació directa.
 
 · **Membres del grup**: Daniel Lizarte.
