@@ -33,7 +33,7 @@ Este portafolio presenta mis proyectos universitarios y personales. Por razones 
 
 · **Miembros del grupo**: Daniel Marín, Daniel Lizarte.  
 
-## **Proyectos de Procesamiento de Lenguaje Natural para Aplicaciones Cotidianas de UPF**
+## **UPF Procesamiento de Lenguaje Natural para Aplicaciones Cotidianas Proyectos**
 · **Descripción**: Una serie de proyectos en equipo utilizando Python que incluyen: Seminario 1 centrado en la clasificación de texto utilizando árboles de decisión y Naïve Bayes en conjuntos de datos como IRIS, IMDB y Reuters; Seminario 2 analizó texto con spaCy, explorando N-Grams y embeddings de palabras; Seminario 3 introdujo redes neuronales para la clasificación binaria de texto; Laboratorio 1 investigó la resumación de texto extractiva y abstractiva utilizando redes neuronales; Laboratorio 2 implementó un sistema de extracción de información basado en BERT con etiquetado BIO y evaluó el rendimiento utilizando métricas de precisión, recall y F1.  
 
 · **Miembros del grupo**: Alejandro Pastor, Mireia Pou, Daniel Lizarte.  
