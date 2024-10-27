@@ -38,6 +38,9 @@ Este portafolio presenta mis proyectos universitarios y personales. Por razones 
 
 · **Miembros del grupo**: Alejandro Pastor, Mireia Pou, Daniel Lizarte.  
 
+
+
+
 # Portfolio - English
 This portfolio features my university and personal projects. For confidentiality, code access is private; contact me for more details.  
 
